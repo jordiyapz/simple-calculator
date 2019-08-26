@@ -1,0 +1,11 @@
+First, you will need to make sure that you have set the correct path for your gcc / gnu compiler 
+so that it can run directly from cmd.
+Next, just run the "BatchCompiler.bat" file, and it should compile.
+
+Or, you can just start the "main.exe" program that I've compiled
+
+*ps: This program was originaly written by me about half year ago where I learned to write C++ code
+by myself. At that day, I have never used any C++ IDE (such as Codeblock, DevC++, etc).
+I compiled all my code by running a cmd to run the compiler. After that, I tried to write a simple
+batch program to automate all compile task. And it always works as I expected, unlike codeblock's
+compiler. I've tried using codeblock for this program, but there are a lot of issue that I can't handle.
